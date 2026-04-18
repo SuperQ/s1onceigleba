@@ -1,0 +1,4 @@
+baseURL: https://localhost:1313/
+locale: pl-pl
+title: Słońce i gleba
+theme: hugo-theme-cleanwhite
