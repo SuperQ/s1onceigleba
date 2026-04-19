@@ -2,3 +2,4 @@ baseURL: https://słońceigleba.com/
 locale: pl-pl
 title: Słońce i gleba
 theme: hugo-theme-cleanwhite
+defaultContentLanguage: pl
