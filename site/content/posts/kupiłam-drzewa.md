@@ -7,4 +7,8 @@ draft: false
 
 Jedno to drzweko cytryny Meyera, a drugie to drzweko pomarańczowe.
 
+![Mini cytryny Meyer](/images/niedojrza1e-cytryny-meyer.jpg)
+
 Gdy osiągną pełną dojrzałość, będą mały od 110 do 130 centymetrów wysokość.
+
+![Miniaturowe pokrojone cytryny Meyer](/images/niedojrza1e-cytryny-meyer-pokrojone.jpg)
